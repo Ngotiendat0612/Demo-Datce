@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 
-import logo from '../assets/images/Logo-2.png'
+import logo from '../assets/images/Logo-3.png'
 
 const mainNav = [
     {
@@ -13,12 +13,18 @@ const mainNav = [
         path: "/catalog"
     },
     {
-        display: "Phụ kiện",
-        path: "/accessories"
+        // display: "Phụ kiện",
+        // path: "/accessories"
     },
     {
-        display: "Liên hệ",
-        path: "/contact"
+        // display: "Liên hệ Quỳnh",
+        // path: "/contact"
+
+    },
+    {
+        // display: "Trả góp 0%",
+        // path: "/contact"
+
     }
 ]
 

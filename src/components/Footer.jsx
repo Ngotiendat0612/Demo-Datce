@@ -4,44 +4,43 @@ import { Link } from 'react-router-dom'
 
 import Grid from './Grid'
 
-import logo from '../assets/images/Logo-2.png'
+import logo from '../assets/images/Logo-3.png'
 
 const footerAboutLinks = [
     {
         display: "Giới thiệu",
-
-        path: "/about"
+        // path: "/about"
     },
     {
         display: "Liên hệ",
-        path: "/about"
+        // path: "/about"
     },
     {
         display: "Tuyển dụng",
-        path: "/about"
+        // path: "/about"
     },
     {
         display: "Tin tức",
-        path: "/about"
+        // path: "/about"
     },
     {
         display: "Hệ thống cửa hàng",
-        path: "/about"
+        // path: "/about"
     }
 ]
 
 const footerCustomerLinks = [
     {
         display: "Chính sách đổi trả",
-        path: "/about"
+        // path: "/about"
     },
     {
         display: "Chính sách bảo hành",
-        path: "/about"
+        // path: "/about"
     },
     {
         display: "Chính sách hoàn tiền",
-        path: "/about"
+        // path: "/about"
     }
 ]
 const Footer = () => {
@@ -72,7 +71,7 @@ const Footer = () => {
                     </div>
                     <div>
                         <div className="footer__title">
-                            Về ĐạtYolo
+                            Về Đạt
                         </div>
                         <div className="footer__content">
                             {
@@ -109,7 +108,7 @@ const Footer = () => {
                             </Link>
                         </p>
                         <p>
-                            Hướng đến mục tiêu mang lại niềm vui ăn mặc mới mỗi ngày cho hàng triệu người tiêu dùng Việt. Hãy cùng Yolo hướng đến một cuộc sống năng động, tích cực hơn.
+                            Hướng đến mục tiêu mang lại niềm vui ăn mặc mới mỗi ngày cho hàng triệu người tiêu dùng Việt. Hãy cùng Quỳnh hướng đến một cuộc sống năng động, tích cực hơn.
                         </p>
                     </div>
                 </Grid>
