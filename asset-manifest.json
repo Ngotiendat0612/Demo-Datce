@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Demo-Datce/static/css/main.eee5b2c8.chunk.css",
-    "main.js": "/Demo-Datce/static/js/main.4346e13e.chunk.js",
-    "main.js.map": "/Demo-Datce/static/js/main.4346e13e.chunk.js.map",
+    "main.js": "/Demo-Datce/static/js/main.1369a7d2.chunk.js",
+    "main.js.map": "/Demo-Datce/static/js/main.1369a7d2.chunk.js.map",
     "runtime-main.js": "/Demo-Datce/static/js/runtime-main.351d5879.js",
     "runtime-main.js.map": "/Demo-Datce/static/js/runtime-main.351d5879.js.map",
     "static/js/2.b6d66d6c.chunk.js": "/Demo-Datce/static/js/2.b6d66d6c.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/Demo-Datce/index.html",
     "static/css/main.eee5b2c8.chunk.css.map": "/Demo-Datce/static/css/main.eee5b2c8.chunk.css.map",
     "static/js/2.b6d66d6c.chunk.js.LICENSE.txt": "/Demo-Datce/static/js/2.b6d66d6c.chunk.js.LICENSE.txt",
-    "static/media/Logo-2.3f227664.png": "/Demo-Datce/static/media/Logo-2.3f227664.png",
+    "static/media/Logo-3.a78bf6d5.png": "/Demo-Datce/static/media/Logo-3.a78bf6d5.png",
     "static/media/banner.3c5f3ab8.png": "/Demo-Datce/static/media/banner.3c5f3ab8.png",
     "static/media/boxicons.min.css": "/Demo-Datce/static/media/boxicons.cbd149c5.ttf",
     "static/media/product-01 (1).jpg": "/Demo-Datce/static/media/product-01 (1).7badc1d8.jpg",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.351d5879.js",
     "static/js/2.b6d66d6c.chunk.js",
     "static/css/main.eee5b2c8.chunk.css",
-    "static/js/main.4346e13e.chunk.js"
+    "static/js/main.1369a7d2.chunk.js"
   ]
 }
